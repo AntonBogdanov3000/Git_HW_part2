@@ -1,0 +1,12 @@
+Bug report
+
+1.Id
+2.Title
+3.Steps to reproduce
+4.Expected result
+5.Actual result
+6.Reporter
+7.Severity
+8.Priority
+9.Status
+10.Environment
