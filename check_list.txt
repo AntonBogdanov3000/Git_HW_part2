@@ -1,0 +1,10 @@
+CheckList
+
+1.Open www.awesome.com
+2.Log in
+3.Move to Catalog
+4.Choose 2 items and add in cart
+5.Click "Order"
+6.Complete order and click "Buy"
+7.Check e-mail for order confirm message
+
